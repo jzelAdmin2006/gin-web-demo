@@ -1,1 +1,1 @@
-# gin-web-example
+# gin-web-demo
